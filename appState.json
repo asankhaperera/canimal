@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "canimal.js",
         "cursor": {
-          "lineNumber": 57,
-          "column": 46
+          "lineNumber": 2,
+          "column": 1
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -62,7 +62,14 @@
       }
     ],
     "packageJSON": {
-      "dependencies": {}
+      "dependencies": {
+        "ask-sdk": {
+          "name": "ask-sdk",
+          "version": "2.8.0",
+          "dev": false,
+          "language": "nodejs"
+        }
+      }
     }
   },
   "PROJECT_META": {
@@ -73,7 +80,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1588245446975
+    "lastSave": 1588246998057
   },
   "VCS_STATE": {
     "provider": "GitHub",

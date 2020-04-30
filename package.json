@@ -1,6 +1,8 @@
 {
   "name": "canimal",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "ask-sdk": "2.8.0"
+  },
   "devDependencies": {}
 }
