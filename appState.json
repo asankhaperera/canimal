@@ -1,0 +1,85 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "0a43d212-9b24-423b-a47e-4ade3abd7915": {
+        "id": "0a43d212-9b24-423b-a47e-4ade3abd7915",
+        "parent": null,
+        "name": "canimal.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "canimal.js",
+        "cursor": {
+          "lineNumber": 57,
+          "column": 46
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "canimal"
+        },
+        "triggers": [
+          {
+            "resourceName": "alexaSK88308b7fa94e40c7973093e000e1409f",
+            "config": {}
+          }
+        ]
+      }
+    },
+    "openFiles": [
+      "0a43d212-9b24-423b-a47e-4ade3abd7915"
+    ],
+    "currentFileId": "0a43d212-9b24-423b-a47e-4ade3abd7915",
+    "resources": {
+      "alexaSK88308b7fa94e40c7973093e000e1409f": {
+        "name": "alexaSK88308b7fa94e40c7973093e000e1409f",
+        "type": "ALEXA",
+        "config": {
+          "type": 1,
+          "verifiedID": true,
+          "skillID": "amzn1.ask.skill.88308b7f-a94e-40c7-9730-93e000e1409f",
+          "applicationID": ""
+        }
+      }
+    },
+    "customTemplate": {
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "canimal",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1588245446975
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "canimal",
+      "url": "https://github.com/asankhaperera/canimal"
+    }
+  }
+}
